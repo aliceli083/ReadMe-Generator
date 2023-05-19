@@ -15,7 +15,8 @@
   ![Screenshot 2023-05-18 184846](https://github.com/aliceli083/ReadMe-Generator/assets/127727591/2292f25e-25fb-4bfd-99df-56ef0a273fdf)
 
   [link to live site](https://aliceli083.github.io/ReadMe-Generator/)
-  [link to repo[(https://github.com/aliceli083/ReadMe-Generator)
+  
+  [link to repo](https://github.com/aliceli083/ReadMe-Generator)
   ## Contributing
 
 
